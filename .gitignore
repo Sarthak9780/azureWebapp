@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+app-springboot-helloworld/build/
+library-hello-factory/build/
+library-world-factory/build/
+build/
